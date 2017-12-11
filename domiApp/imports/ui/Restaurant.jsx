@@ -110,3 +110,4 @@ Restaurant.propTypes = {
 
     restaurant: PropTypes.object.isRequired
 };
+//Pueden ponerle más atributos de estilo al componente de restaurante para que todo el texto quede dentro del cuadro y no toque hacer scroll
