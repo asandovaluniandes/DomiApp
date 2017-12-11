@@ -25,3 +25,5 @@ Accounts.onCreateUser(function (options, user) {
 
     return user;
 });
+
+//El api bota error al tratar ingresar como usuario
