@@ -70,3 +70,4 @@ export default class Filter extends Component{
 Filter.propTypes = {
     restaurants: PropTypes.array.isRequired
 };
+//podrían agregar un autocomplete o una detección de errores al buscar los restaurantes
